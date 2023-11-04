@@ -2,6 +2,14 @@
 
 ![image](https://github.com/CainaZumaa/Desafio-NodeJs/assets/124850081/f4deca4c-e22f-43c8-921f-3535ac1ad28c)
 
+**Foi Usado:**
+
+Node.js
+JavaScript (JS)
+Express.js
+MongoDB
+EJS (Embedded JavaScript)
+
 # - **Adicinar na Lista:**
 
 ![image](https://github.com/CainaZumaa/Desafio-NodeJs/assets/124850081/f52a2234-6986-4641-96ed-d065062e30ec)
