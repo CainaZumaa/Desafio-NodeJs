@@ -4,11 +4,11 @@
 
 **Foi Usado:**
 
-Node.js
-JavaScript (JS)
-Express.js
-MongoDB
-EJS (Embedded JavaScript)
+- Node.js
+- JavaScript (JS)
+- Express.js
+- EJS (Embedded JavaScript)
+- MongoDB (Banco de Dados)
 
 # - **Adicinar na Lista:**
 
