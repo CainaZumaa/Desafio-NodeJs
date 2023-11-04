@@ -1,7 +1,7 @@
 {
-  "name": "desafio-nodejs",
+  "name": "Lista-de-compras",
   "version": "1.0.0",
-  "description": "Desafio de NodeJs do Ramo IEEE",
+  "description": "Projeto realizado como proposta da cap de nodeJS",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -12,6 +12,7 @@
   "dependencies": {
     "ejs": "^3.1.9",
     "express": "^4.18.2",
+    "mongoose": "^7.6.3",
     "nodemon": "^3.0.1"
   }
 }
