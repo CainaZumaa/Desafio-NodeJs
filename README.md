@@ -8,7 +8,7 @@
 - JavaScript (JS)
 - Express.js
 - EJS (Embedded JavaScript)
-- MongoDB (Banco de Dados)
+- MongoDB Atlas (Banco de Dados)
 
 # - **Adicinar na Lista:**
 
